@@ -1,6 +1,6 @@
 # bdpimage guide
 
-1. "CPU" Case
+1. "CPU" Case\n
 1.1. os : Ubuntu 16.04
 
 2. "GPU" Case
